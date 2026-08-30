@@ -1,0 +1,6 @@
+services:
+  CleanArchitectureTemplate.api:
+    image: ${DOCKER_REGISTRY-}CleanArchitectureTemplateapi
+    build:
+      context: .
+      dockerfile: CleanArchitectureTemplate.Api/Dockerfile

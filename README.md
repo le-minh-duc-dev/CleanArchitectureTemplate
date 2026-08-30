@@ -1,0 +1,10 @@
+Prerequisites
+Installation
+Running locally
+Database setup
+Running tests
+Docker
+Architecture
+Configuration
+Deployment
+Troubleshooting
